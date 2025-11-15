@@ -1,0 +1,17 @@
+{
+  "original_filename": "r.json",
+  "analysis": {
+    "recommendation": "sql",
+    "reason": "Flat or lightly nested structure",
+    "keys": [
+      "product_id",
+      "name",
+      "in_stock",
+      "details",
+      "tags",
+      "reviews"
+    ]
+  },
+  "analyzed_at": "2025-11-15T20:05:27.652281",
+  "file_size": 594
+}

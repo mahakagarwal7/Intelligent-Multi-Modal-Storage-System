@@ -1,0 +1,12 @@
+{
+  "original_filename": "arun.json",
+  "analysis": {
+    "recommendation": "sql",
+    "reason": "Flat or lightly nested structure",
+    "keys": [
+      "data"
+    ]
+  },
+  "analyzed_at": "2025-11-15T20:07:53.568857",
+  "file_size": 349
+}

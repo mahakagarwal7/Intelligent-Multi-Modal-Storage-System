@@ -1,0 +1,10 @@
+{
+  "original_filename": "r.json",
+  "analysis": {
+    "recommendation": "nosql",
+    "reason": "Contains nested dictionary or list (depth: 1), ideal for document storage.",
+    "nesting_level": 1
+  },
+  "analyzed_at": "2025-11-15T21:04:48.313979",
+  "file_size": 594
+}

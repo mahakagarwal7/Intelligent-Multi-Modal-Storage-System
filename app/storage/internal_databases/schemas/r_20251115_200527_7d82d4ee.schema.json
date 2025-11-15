@@ -1,0 +1,14 @@
+{
+  "original_filename": "r.json",
+  "storage_type": "sql",
+  "columns": [
+    "product_id",
+    "name",
+    "in_stock",
+    "details",
+    "tags",
+    "reviews"
+  ],
+  "reason": "Flat or lightly nested structure",
+  "analyzed_at": "2025-11-15T20:05:27.653407"
+}

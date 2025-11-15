@@ -1,0 +1,10 @@
+{
+  "original_filename": "flat.json",
+  "storage_type": "sql",
+  "columns": [
+    "item_name",
+    "item_value"
+  ],
+  "reason": "Flat or lightly nested structure",
+  "analyzed_at": "2025-11-15T20:04:47.433815"
+}

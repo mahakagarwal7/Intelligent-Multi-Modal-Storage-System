@@ -1,0 +1,9 @@
+{
+  "original_filename": "arun.json",
+  "storage_type": "sql",
+  "columns": [
+    "data"
+  ],
+  "reason": "Flat or lightly nested structure",
+  "analyzed_at": "2025-11-15T20:19:11.868290"
+}
